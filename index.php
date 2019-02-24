@@ -24,7 +24,7 @@ if (isset($_POST['password'])) {
         <link rel="STYLESHEET" type="text/css" href="css/estilos.css">
         <meta charset="UTF-8">
     <body>
-
+        <!-- Comentario realizado por Álvaro (alvarogm98) -->
 
         <form name="menu" method="post" action="index.php">
             <input type="hidden" name="pagina">
